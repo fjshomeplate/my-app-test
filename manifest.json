@@ -1,1 +1,1 @@
-{"name":"my-app","description":"Super Awesome Project. With Moo.","author":"Buffalo Bill","version":"1.0.0","stack":"node","components":[{"name":"app","description":"A component.","path":"./src/app.js","isDataDependent":"no"}]}
+{"name":"my-app","description":"Super Awesome Project. With Moo.","author":"Buffalo Bill","version":"1.0.0","stack":"node","components":[{"name":"app","description":"A component.","path":"./src/App.js","isDataDependent":"no"}]}
